@@ -1,10 +1,10 @@
-package com.Crud_angular_spring_boot;
+package br.com.crud_angular_spring;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class CrudAngularSpringBootApplicationTests {
+class CrudAngularSpringApplicationTests {
 
 	@Test
 	void contextLoads() {

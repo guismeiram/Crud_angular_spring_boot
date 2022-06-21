@@ -1,13 +1,13 @@
-package com.Crud_angular_spring_boot;
+package br.com.crud_angular_spring;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class CrudAngularSpringBootApplication {
+public class CrudAngularSpringApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(CrudAngularSpringBootApplication.class, args);
+		SpringApplication.run(CrudAngularSpringApplication.class, args);
 	}
 
 }
