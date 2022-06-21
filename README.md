@@ -15,3 +15,8 @@ Repositorio com o destino de fazer uma aplicação frontend e backend.
 
 <b>Para baixar o projeto utilize o comando:</b>
 git clone https://github.com/guismeiram/Crud_angular_spring_boot
+
+Como testar o projeto?
+
+Para testar este projeto backend utilizar comando: mvn spring-boot:run
+Para testar o frontend é necessario utilizar: npm run start
