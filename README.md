@@ -18,5 +18,5 @@ git clone https://github.com/guismeiram/Crud_angular_spring_boot
 
 <b>Como testar o projeto?</b><br>
 
-Para testar este projeto backend utilizar comando: <b>mvn spring-boot:run</b>
+Para testar este projeto backend utilizar comando: <b>mvn spring-boot:run</b><br>
 Para testar o frontend é necessario utilizar: <b>npm run start</b>
