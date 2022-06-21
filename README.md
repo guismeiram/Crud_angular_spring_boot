@@ -13,10 +13,10 @@ Repositorio com o destino de fazer uma aplicação frontend e backend.
 -Eclipse<br>
 -Java 17<br>
 
-<b>Para baixar o projeto utilize o comando:</b>
+<b>Para baixar o projeto utilize o comando:</b><br>
 git clone https://github.com/guismeiram/Crud_angular_spring_boot
 
-Como testar o projeto?
+<b>Como testar o projeto?</b><br>
 
-Para testar este projeto backend utilizar comando: mvn spring-boot:run
-Para testar o frontend é necessario utilizar: npm run start
+Para testar este projeto backend utilizar comando: <b>mvn spring-boot:run</b>
+Para testar o frontend é necessario utilizar: <b>npm run start</b>
